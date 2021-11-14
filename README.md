@@ -1,4 +1,4 @@
-# askComets.
+# AskComets.
 # Inspiration
 Sometimes, finding help for a specific problem for a class might be hard, especially with all the avenues you can look to, such as discord or other sites such as StackOverflow. We wanted to make a centralized form of question help in which comets from all different classes can ask and help others with questions.
 
